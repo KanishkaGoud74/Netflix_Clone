@@ -1,3 +1,3 @@
 # Netflix_Clone
 
- https://kanishkagoud.github.io/Netflix_Clone/
+ https://kanishkagoud74.github.io/Netflix_Clone/
